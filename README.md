@@ -1,3 +1,3 @@
-Modern Splash Texts was added so everyone using 1.8.9 or newer can use all of the
-splash texts from that was released from 1.9.0 all the way up to 1.19.3 Pre Release 1's Release/Snapshot!
-this resource pack was also a contribution to technoblade. farewell to the king. 1999-2022
+Modern Splash Texts was added so anyone using 1.8.9 or above can use this resource pack. the whole point of
+this is to give the users the ability to see any type of New Splash Text on any Minecraft Version.
+all of the New splash texts are from 1.9.0 up to 1.20's Release/Snapshot!
